@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factions>
+	<faction Name="Arachnids" Load="Merge">
+		<partreputation About="ChitinFlesh" Value="100" />
+	</faction>
+
+	<faction Name="Insects" Load="Merge">
+		<partreputation About="ChitinFlesh" Value="100" />
+	</faction>
+
+	<faction Name="Crabs" Load="Merge">
+		<partreputation About="ChitinFlesh" Value="100" />
+	</faction>
+
+	<faction Name="Birds" Load="Merge">
+		<partreputation About="FluffyFeathers" Value="100" />
+	</faction>
+
+	<faction Name="Apes" Load="Merge">
+		<partreputation About="WinterFur" Value="100" />
+	</faction>
+	
+	<faction Name="Bears" Load="Merge">
+		<partreputation About="WinterFur" Value="100" />
+	</faction>
+	
+	<faction Name="Baboons" Load="Merge">
+		<partreputation About="WinterFur" Value="100" />
+	</faction>
+	
+	<faction Name="Prey" Load="Merge">
+		<partreputation About="WinterFur" Value="100" />
+	</faction>
+	
+	<faction Name="Unshelled Reptiles" Load="Merge">
+		<partreputation About="ScalySkin" Value="100" />
+	</faction>
+</factions>

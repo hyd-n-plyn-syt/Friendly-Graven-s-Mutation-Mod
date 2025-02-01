@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mutations>
+  <!-- Physical -->
+  <category Name="Physical">
+    <mutation Name="Heightened Instincts" Cost="2" MaxSelected="1" Class="GrvPredEyes" Exclusions="" BearerDescription="the opportunistic" Tile="HeightenedInstincts.png" />
+	<mutation Name="Triple-jointed" Cost="3" MaxSelected="1" Class="HeightenedAgility" Exclusions="" Stat="Willpower" BearerDescription="the triple-jointed" Tile="Mutations/triple-jointed.bmp" />
+    <mutation Name="Two-hearted" Cost="3" MaxSelected="1" Class="TwoHearted" Exclusions="" Stat="Willpower" BearerDescription="the two-hearted" Tile="Mutations/two-hearted.bmp" />
+    <mutation Name="Double-muscled" Cost="3" MaxSelected="1" Class="HeightenedStrength" Exclusions="" Stat="Willpower" BearerDescription="the double-muscled" Tile="Mutations/double-muscled.bmp" />
+	<mutation Name="Fire Breather" Cost="4" MaxSelected="1" Class="FireBreather" Exclusions="" BearerDescription="the fire breathing"  />
+  </category>
+  
+  <!-- Mental -->
+  <category Name="Mental">
+    <mutation Name="Ego Projection" Cost="4" MaxSelected="1" Class="WillForce" Exclusions="" BearerDescription="those who project their egos onto the physical realm" BiomeAdjective="psychically refractive" Tile="Mutations/ego_projection.bmp" />
+  </category>
+  
+</mutations>
